@@ -6085,7 +6085,9 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #6c757d !important;
+background-color: #00ccdb;
+background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
