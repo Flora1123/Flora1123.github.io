@@ -9981,7 +9981,7 @@ h3 {
 }
 body {
   padding-top: 3.375rem;
-  color: #6c757d;
+  color: #06000a;
 }
 
 @media (min-width: 992px) {
@@ -10004,8 +10004,8 @@ h1 {
 }
 
 p.lead {
-  font-size: 1.15rem;
-  font-weight: 400;
+  font-size: 0.5rem;
+  font-weight: 200;
 }
 
 .subheading {
